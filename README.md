@@ -14,15 +14,15 @@
 
 ### Exemple de code TypeScript
 
-![TypeScript Example](./assets/screenshots/typescript-example.png)
+![TypeScript Example](./assets/tsx.png)
 
 ### Exemple de code CSS
 
-![CSS Example](./assets/screenshots/css-example.png)
+![CSS Example](./assets/css.png)
 
 ### Exemple de JSX/React
 
-![JSX Example](./assets/screenshots/jsx-example.png)
+![JSX Example](./assets/html.png)
 
 ## Installation
 
