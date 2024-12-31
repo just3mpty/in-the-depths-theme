@@ -3,6 +3,7 @@
     "displayName": "In the Depths",
     "description": "A minimalist, low-contrast dark theme for VSCode, inspired by introspection and overcoming struggles. Designed to create a calming, focused coding environment with subtle accents and a muted color palette.",
     "version": "0.0.1",
+    "publisher": "3mpty",
     "engines": {
         "vscode": "^1.96.0"
     },
