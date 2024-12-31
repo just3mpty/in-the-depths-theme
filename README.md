@@ -12,15 +12,15 @@
 
 ## Screenshots
 
-### Exemple de code TypeScript
+### Typescript example
 
 ![TypeScript Example](./assets/tsx.png)
 
-### Exemple de code CSS
+### CSS Example
 
 ![CSS Example](./assets/css.png)
 
-### Exemple de JSX/React
+### HTML Example
 
 ![JSX Example](./assets/html.png)
 
