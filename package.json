@@ -17,5 +17,9 @@
                 "path": "./themes/in-the-depths-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/just3mpty/in-the-depths-theme.git"
     }
 }
