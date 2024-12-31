@@ -34,7 +34,7 @@
 
 ## Feedback & Contribution
 
-If you have suggestions, issues, or want to contribute, feel free to open an issue or submit a pull request on [GitHub](https://github.com/your-repo/in-the-depths-theme).
+If you have suggestions, issues, or want to contribute, feel free to open an issue or submit a pull request on [GitHub](https://github.com/just3mpty/in-the-depths-theme.git).
 
 ## Acknowledgements
 
